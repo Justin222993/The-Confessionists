@@ -1,0 +1,10 @@
+Project Checkpoint 01
+
+1.	Team Name: The Confessionists
+2.	Justin Morissette – 2230195 – justin.dobbylechat@gmail.com
+Ioannis Panaritis  - 2032173 - i.panar@yahoo.com
+3.	Done
+4.	We are going to make a Champlain Confession application because the version that is on Instagram is imperfect. We believe that our application will be of use to the Champlain students in the upcoming years as it will be easier to post and find posts on our application. Also, instead of having someone screenshot every post on post it only manually, we can have our server manage everything automatically.  We will also have a better UI and more functionalities like searching through posts, and might also implement rate my teacher functionalities, as it doesn’t really exist for Champlain (Rated by difficulty, would take again, comments)
+5.	Ioannis Panaritis  - Database – Make table for Title, postContent, timeOfPost (For now)
+Justin Morissette – Application UI – connect button to database, make sure sending information to database works.
+6.	done
