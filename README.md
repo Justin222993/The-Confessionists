@@ -29,3 +29,4 @@ To run this application locally, follow these steps:
 2. **Open the application in Android Studio**:
      Once it's Open in android studio, click on the run application button.
 
+**_If it doesn't work, the server or application might have been closed_**
