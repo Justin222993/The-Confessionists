@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WhiteText">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="GreyishText">
+        <item name="android:textColor">@color/greyish</item>
+    </style>
+    <style name="TitleGreyishText" parent="GreyishText">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="confessionButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:background">@drawable/confession_button_background</item>
+    </style>
+</resources>
