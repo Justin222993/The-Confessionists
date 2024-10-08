@@ -15,8 +15,7 @@ import com.google.gson.Gson
 
 class DatabaseHelper() {
 
-              //This should be communicating with domain name, So I am hiding the IP Address of the server
-    val url: String = "http://(SERVER-IP):5000";
+    val url: String = "http://192.168.45.67:5000";
 
     fun getUrlToServer(): String{
         return this.url
